@@ -1,0 +1,20 @@
+.transaction-history {
+  margin: 0 auto;
+  border: none;
+  padding: 0px;
+}
+.string {
+  text-align: center;
+  border: none;
+  width: 233px;
+  padding: 10px 15px;
+  font-size: 14px;
+}
+.title {
+  font-weight: bold;
+  text-align: center;
+  border: none;
+  padding: 10px 15px;
+  background: rgb(135, 229, 243);
+  font-size: 14px;
+}
